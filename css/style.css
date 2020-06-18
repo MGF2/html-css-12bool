@@ -1,1 +1,36 @@
 
+.row {
+  /* background-color: pink; */
+  /* max-width: 1170px; */
+  margin: 0 auto;
+  /* height: 250px; */
+}
+
+.blue {
+  background-color: #237db9;
+}
+
+.col-12 {
+  height: 300px;
+  background-color: #14aa96;
+}
+
+.col-6 {
+  height: 250px;
+  background-color: skyblue;
+  border: 1px solid blue;
+  float: left;
+}
+
+.col-4 {
+  height: 400px;
+  background-color: #f09b14;
+  float: left;
+  border: 1px solid yellow;
+}
+
+.col-2 {
+  height: 100px;
+  float: left;
+  background-color: #be392b;
+}
