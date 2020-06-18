@@ -1,36 +1,35 @@
 
 .row {
-  /* background-color: pink; */
-  /* max-width: 1170px; */
+  max-width: 1170px;
   margin: 0 auto;
-  /* height: 250px; */
 }
 
-.blue {
+.menu {
+  height: 200px;
   background-color: #237db9;
+  border: 1px solid skyblue;
+  float: left;
 }
 
-.col-12 {
-  height: 300px;
+.top {
+  height: 350px;
   background-color: #14aa96;
 }
 
-.col-6 {
-  height: 250px;
-  background-color: skyblue;
-  border: 1px solid blue;
-  float: left;
-}
-
-.col-4 {
-  height: 400px;
+.boxcontent {
+  height: 500px;
   background-color: #f09b14;
+  border: 1px solid gold;
   float: left;
-  border: 1px solid yellow;
 }
 
-.col-2 {
-  height: 100px;
-  float: left;
+.bottom {
+  background-color: #237db9;
+}
+
+.ibox {
+  height: 250px;
   background-color: #be392b;
+  float: left;
+  margin: 10px;
 }
